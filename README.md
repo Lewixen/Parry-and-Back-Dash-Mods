@@ -39,3 +39,7 @@ I'm not planning to keep adding features, but I will fix bugs. If something brea
 `C:\Users\<your name>\AppData\LocalLow\Team Cherry\Hollow Knight\ModLog.txt`
 
 Feedback is very welcome. I'd love to hear how it feels to play!
+
+## Credits
+
+The code for both mods was written with the help of Claude (AI). The ideas, design, hand-drawn animations and sound edits are my own.
